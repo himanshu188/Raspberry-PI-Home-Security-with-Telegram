@@ -1,3 +1,7 @@
+# This Python program is used to Watch Live View from the Webcam
+# Made by Himanshu Patel
+# Email : contact@himanshuptl.me
+
 import pygame
 import pygame.camera
 from pygame.locals import *
